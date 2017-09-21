@@ -26,5 +26,10 @@
 * In case of failure of all the servers bound to a virtual server, requests may be sent to a backup virtual server (if configured) or optionally redirected to a configured URL. 
 * In Global Server Load Balancing (GSLB) the load balancer distributes load to a geographically distributed set of server farms based on health, server load or proximity.
 
+### VIP (Virtual IP)
+A virtual IP address (VIP or VIPA) is an IP address that doesn't correspond to an actual physical network interface or port. 
+Uses for VIPs includes network address translation (especially, one-to-many NAT), fault-tolerance or laod balancing
+
+In one-to-many NAT, VIP address is advertised from the NAT device (often a router), and incoming data packets destined to that VIP address are routed to different actual IP addresses (with address translation).
 
 [Visuals](https://www.slideshare.net/raja.s.75/load-balancer)
