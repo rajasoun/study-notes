@@ -9,9 +9,15 @@ Getting Computers (Machine) to recognize patterns by examples, rather than progr
 
 “A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.” — Tom Michel
 
+Example:
+Suppose your email program watches which emails you do or do not mark as spam, and based on that learns how to better filter spam. What is the task T in this setting?
 
+1. Classify emails as spam or not spam.
+2. Watching you label emails as spam or not spam.
+3. The number (or fraction) of emails correctly classified as spam/not spam.
+4. None of the above, this is not a machine learning algorithm.
 
-
+Option-1 is the right answer
 
 
 
