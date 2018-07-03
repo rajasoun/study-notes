@@ -43,9 +43,11 @@ In general, any machine learning problem can be assigned to one of two broad cla
 * Unsupervised learning
 * Others: Reinforcement learning, Recommender Systems
 
-![Image of Yaktocat](/images/ml-categories.jpg)
+![Image of ML Categories](/images/ml-categories.jpg)
 
 ## Supervised Learning
+
+![Supervised ML](/images/supervised-ml.png)
 
 We are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
@@ -93,6 +95,11 @@ Machine Learning involves mapping from a set of inputs to set of outputs.
 | Car Locations & Speed    | Traffic Flow                  | Traffic Lights       |
 | Faces                    | Names                         | Face Recognition     |
 
+
+## USupervised Learning
+
+![UNSupervised ML](/images/unsupervised-ml.png)
+
 With supervised machine learning, you have an input variable that consists of _labeled training data_ and a _desired output variable_. An algorithm to analyse the training data is used to model the function that maps the input to the output. This modelled function maps new, unknown examples by generalising from the training data to anticipate results in unseen situations.
 
 With unsupervised machine learning, you have unlabeled data, and the outcomes to problems are mostly unknown. The system learns by itself by discovering the natural patterns within the given data, (such as a clustering structure, a low-dimensional manifold, or a sparse tree and graph). Technically, there are bound to be wrong answers, since there is a certain degree of probability. However, just like how we humans work, the strength of machine learning lies in its ability to recognise mistakes, learn from them, and to eventually make better estimations next time around.
@@ -101,5 +108,6 @@ With unsupervised machine learning, you have unlabeled data, and the outcomes to
 [A Beginner's Guide to Machine Learning](https://www.linkedin.com/pulse/beginners-guide-machine-learning-randy-lao-/?trk=v-feed "Permalink to ")
 [Machine Learning vs Deep Learning](https://mc.ai/machine-learning-vs-deep-learning/)
 [Google Machine Learning](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
+[Machine Learning Explained](http://bigdata-madesimple.com/machine-learning-explained-understanding-supervised-unsupervised-and-reinforcement-learning/)
 
 [Markdown Table Tool](https://www.tablesgenerator.com/markdown_tables)
