@@ -1,4 +1,6 @@
-# What is Machine Learning
+
+# What is  Machine Learning
+
 Getting Computers (Machine) to learn without being explicitly Programmed.
 
 > or
@@ -28,42 +30,45 @@ Suppose your email program watches which emails you do or do not mark as spam, a
 
 Example-2: 
 Playing checkers.
+
 * E = the experience of playing many games of checkers
 * T = the task of playing checkers.
 * P = the probability that the program will win the next game.
 
 # Categories of Machine Learning Algorithms
+
 In general, any machine learning problem can be assigned to one of two broad classifications:
+
 * Supervised learning
 * Unsupervised learning
 * Others : Reinforcement learning, Recommender Systems
 
+![Image of Yaktocat](/images/ml-categories.jpg)
 
 ## Supervised Learning
+
 We are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
 Supervised learning problems are categorized into 
-* "regression" and 
-* "classification" problems. 
 
-### Regression Problem : 
+* "regression" and
+* "classification" problems
+
+### Regression Problem
+
 * We are trying to predict results within a continuous output, meaning that we are trying to map input variables to some continuous function. 
 * Continuous Data can take any value (within a range)
 * Examples:
   * Given data about the size of houses on the real estate market, try to predict their price. Price as a function of size is a continuous output, so this is a regression problem.
   * Given a picture of a person, we have to predict their age on the basis of the given picture
 
+### Classification Problem
 
-### Classification Problem:  
 * We are  trying to predict results in a discrete output,  meaning that we are trying to map input variables into discrete categories.
 * Discrete Data can only take certain values.
 * Examples:
   * Given data about the size of houses on the real estate market, try to predict whether the house "sells for more or less than the asking price." Here we are classifying the houses based on price into two discrete categories.
   * Given a patient with a tumor, we have to predict whether the tumor is malignant or benign
-
-
-
-
 
 1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/Ujm7v/what-is-machine-learning)
 2. [A Beginner's Guide to Machine Learning](https://www.linkedin.com/pulse/beginners-guide-machine-learning-randy-lao-/?trk=v-feed "Permalink to ")
