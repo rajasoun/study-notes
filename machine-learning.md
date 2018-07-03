@@ -9,6 +9,11 @@ Getting Computers (Machine) to recognize patterns by examples, rather than progr
 
 “A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.” — Tom Michel
 
+> or
+
+_Building a model_ from example inputs to make data-driven predictions vs. following  static program instructions
+
+
 Example-1:
 Suppose your email program watches which emails you do or do not mark as spam, and based on that learns how to better filter spam. What is the task T in this setting?
 
