@@ -102,6 +102,8 @@ With supervised machine learning, you have an input variable that consists of _l
 
 With unsupervised machine learning, you have unlabeled data, and the outcomes to problems are mostly unknown. The system learns by itself by discovering the natural patterns within the given data, (such as a clustering structure, a low-dimensional manifold, or a sparse tree and graph). Technically, there are bound to be wrong answers, since there is a certain degree of probability. However, just like how we humans work, the strength of machine learning lies in its ability to recognise mistakes, learn from them, and to eventually make better estimations next time around.
 
+## Which Machine Learning Algorithm Should I Use?
+
 ![ML Cheat Sheet](/images/machine-learning-cheet-sheet.png)
 
 ### Adapted From
@@ -111,6 +113,7 @@ With unsupervised machine learning, you have unlabeled data, and the outcomes to
 * [Machine Learning vs Deep Learning](https://mc.ai/machine-learning-vs-deep-learning/)
 * [Google Machine Learning](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 * [Machine Learning Explained](http://bigdata-madesimple.com/machine-learning-explained-understanding-supervised-unsupervised-and-reinforcement-learning/)
+* [ML Cheat Sheet](https://www.kdnuggets.com/2017/06/which-machine-learning-algorithm.html)
 
 ### Tools
 
