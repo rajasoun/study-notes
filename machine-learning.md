@@ -94,7 +94,6 @@ Machine Learning involves mapping from a set of inputs to set of outputs.
 | Car Locations & Speed    | Traffic Flow                  | Traffic Lights       |
 | Faces                    | Names                         | Face Recognition     |
 
-
 ## USupervised Learning
 
 ![UNSupervised ML](/images/unsupervised-ml.png)
@@ -102,6 +101,8 @@ Machine Learning involves mapping from a set of inputs to set of outputs.
 With supervised machine learning, you have an input variable that consists of _labeled training data_ and a _desired output variable_. An algorithm to analyse the training data is used to model the function that maps the input to the output. This modelled function maps new, unknown examples by generalising from the training data to anticipate results in unseen situations.
 
 With unsupervised machine learning, you have unlabeled data, and the outcomes to problems are mostly unknown. The system learns by itself by discovering the natural patterns within the given data, (such as a clustering structure, a low-dimensional manifold, or a sparse tree and graph). Technically, there are bound to be wrong answers, since there is a certain degree of probability. However, just like how we humans work, the strength of machine learning lies in its ability to recognise mistakes, learn from them, and to eventually make better estimations next time around.
+
+![ML Cheat Sheet](/images/machine-learning-cheet-sheet.png)
 
 ### Adapted From
 
