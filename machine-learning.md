@@ -48,6 +48,8 @@ In general, any machine learning problem can be assigned to one of two broad cla
 
 ![Supervised ML](/images/supervised-ml.png)
 
+With supervised machine learning, you have an input variable that consists of _labeled training data_ and a _desired output variable_. An algorithm to analyse the training data is used to model the function that maps the input to the output. This modelled function maps new, unknown examples by generalising from the training data to anticipate results in unseen situations.
+
 We are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
 Supervised learning problems are categorised into 
@@ -94,13 +96,24 @@ Machine Learning involves mapping from a set of inputs to set of outputs.
 | Car Locations & Speed    | Traffic Flow                  | Traffic Lights       |
 | Faces                    | Names                         | Face Recognition     |
 
-## USupervised Learning
-
-![UNSupervised ML](/images/unsupervised-ml.png)
-
-With supervised machine learning, you have an input variable that consists of _labeled training data_ and a _desired output variable_. An algorithm to analyse the training data is used to model the function that maps the input to the output. This modelled function maps new, unknown examples by generalising from the training data to anticipate results in unseen situations.
+## UnSupervised Learning
 
 With unsupervised machine learning, you have unlabeled data, and the outcomes to problems are mostly unknown. The system learns by itself by discovering the natural patterns within the given data, (such as a clustering structure, a low-dimensional manifold, or a sparse tree and graph). Technically, there are bound to be wrong answers, since there is a certain degree of probability. However, just like how we humans work, the strength of machine learning lies in its ability to recognise mistakes, learn from them, and to eventually make better estimations next time around.
+
+Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
+
+We can derive this structure by clustering the data based on relationships among the variables in the data.
+With unsupervised learning there is no feedback based on the prediction results.
+
+Examples:
+
+Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
+
+Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).
+
+![UnSupervised ML](/images/unsupervised-ml.png)
+
+[Slides](https://d3c33hcgiwev3.cloudfront.net/_974fa7509d583eabb592839f9716fe25_Lecture1.pdf?Expires=1530748800&Signature=J5yzAnp2TbH6Rw4yGfRnWVx5LtT5um1WSgMKChJhZrBqvc1MAcTFbn7Bd1Vt2ti6BU0BWqSeHAIIjXQ2NkTrCLYyCv7Byo~XWGzfThTZFubAVsG9CcruRMXTJZX3uTJNcTivhTDyGiUbyJL~b3TsdR8-plxspJCzs9Ffjmqu6Vk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Which Machine Learning Algorithm Should I Use?
 
