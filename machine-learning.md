@@ -9,12 +9,11 @@ Getting Computers (Machine) to recognise patterns by examples, rather than progr
 
 > or
 
-“A computer program is said to learn from experience E concerning some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.” — Tom Michel.
+_Building a model_ from example inputs to make data-driven predictions vs following  static program instructions
 
 > or
 
-_Building a model_ from example inputs to make data-driven predictions vs following  static program instructions
-
+“A computer program is said to learn from experience E concerning some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.” — Tom Michel.
 
 Example-1:
 Suppose your email program watches which emails you do or do not mark as spam, and based on that learns how to filter spam better. What is the task T in this setting?
@@ -104,10 +103,14 @@ With supervised machine learning, you have an input variable that consists of _l
 
 With unsupervised machine learning, you have unlabeled data, and the outcomes to problems are mostly unknown. The system learns by itself by discovering the natural patterns within the given data, (such as a clustering structure, a low-dimensional manifold, or a sparse tree and graph). Technically, there are bound to be wrong answers, since there is a certain degree of probability. However, just like how we humans work, the strength of machine learning lies in its ability to recognise mistakes, learn from them, and to eventually make better estimations next time around.
 
-[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/Ujm7v/what-is-machine-learning)
-[A Beginner's Guide to Machine Learning](https://www.linkedin.com/pulse/beginners-guide-machine-learning-randy-lao-/?trk=v-feed "Permalink to ")
-[Machine Learning vs Deep Learning](https://mc.ai/machine-learning-vs-deep-learning/)
-[Google Machine Learning](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
-[Machine Learning Explained](http://bigdata-madesimple.com/machine-learning-explained-understanding-supervised-unsupervised-and-reinforcement-learning/)
+### Adapted From
+
+* [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/Ujm7v/what-is-machine-learning)
+* [A Beginner's Guide to Machine Learning](https://www.linkedin.com/pulse/beginners-guide-machine-learning-randy-lao-/?trk=v-feed "Permalink to ")
+* [Machine Learning vs Deep Learning](https://mc.ai/machine-learning-vs-deep-learning/)
+* [Google Machine Learning](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
+* [Machine Learning Explained](http://bigdata-madesimple.com/machine-learning-explained-understanding-supervised-unsupervised-and-reinforcement-learning/)
+
+### Tools
 
 [Markdown Table Tool](https://www.tablesgenerator.com/markdown_tables)
