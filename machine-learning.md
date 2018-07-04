@@ -128,6 +128,13 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 * [Machine Learning Explained](http://bigdata-madesimple.com/machine-learning-explained-understanding-supervised-unsupervised-and-reinforcement-learning/)
 * [ML Cheat Sheet](https://www.kdnuggets.com/2017/06/which-machine-learning-algorithm.html)
 
+### Datasets
+
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+* [Linear Regression Dataset](http://people.sc.fsu.edu/~jburkardt/datasets/regression/regression.html)
+* [24 Ultimate Data Science Projects To Boost Your Knowledge and Skills](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+* [24 Ultimate Data Science Projects To Boost Your Knowledge and Skills](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+
 ### Tools
 
 [Markdown Table Tool](https://www.tablesgenerator.com/markdown_tables)
