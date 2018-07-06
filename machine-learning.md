@@ -113,8 +113,6 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 
 ![UnSupervised ML](/images/unsupervised-ml.png)
 
-[Slides](https://d3c33hcgiwev3.cloudfront.net/_974fa7509d583eabb592839f9716fe25_Lecture1.pdf?Expires=1530748800&Signature=J5yzAnp2TbH6Rw4yGfRnWVx5LtT5um1WSgMKChJhZrBqvc1MAcTFbn7Bd1Vt2ti6BU0BWqSeHAIIjXQ2NkTrCLYyCv7Byo~XWGzfThTZFubAVsG9CcruRMXTJZX3uTJNcTivhTDyGiUbyJL~b3TsdR8-plxspJCzs9Ffjmqu6Vk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
-
 ## Which Machine Learning Algorithm Should I Use?
 
 ![ML Cheat Sheet](/images/machine-learning-cheet-sheet.png)
