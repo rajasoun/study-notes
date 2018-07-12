@@ -5,12 +5,25 @@ Getting Machine to learn* without being explicitly Programmed.
 
 > or
 
+
+We, humans, learn mostly from our past experiences.  
+Let us take an example, remember the first time we started using smartphones. 
+During the first time experience, we might have performed the class of tasks like switching on/ off the phone, browse the Internet, listen to music, ordering food etc. 
+We consider ourselves learnt the skills of using a smartphone if we do the same task faster next time.
+
+A human is said to learn 
+   from experience of smartphone usage   
+   with respect to class of tasks like switching on/ off the phone, browse the Internet, listen to music, ordering food etc. 
+   and performance measure  faster,               
+if our performance at tasks improves with experience measured by fastness 
+ 
 “A computer program is said to learn  
    from experience E    
    with respect to some class of tasks T   
    and performance measure P,               
 if its performance at tasks in T, as measured by P, improves with experience E.”   
  — Tom Michel.
+
 
 Example-1:
 Suppose your email program watches which emails you do or do not mark as spam, and based on that learns how to filter spam better. What is the task T in this setting?
