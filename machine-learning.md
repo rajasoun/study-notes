@@ -5,7 +5,12 @@ Getting Machine to learn* without being explicitly Programmed.
 
 > or
 
-“A computer program is said to learn from experience E concerning some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.” — Tom Michel.
+“A computer program is said to learn  
+   from experience E    
+   with respect to some class of tasks T   
+   and performance measure P,               
+if its performance at tasks in T, as measured by P, improves with experience E.”   
+ — Tom Michel.
 
 Example-1:
 Suppose your email program watches which emails you do or do not mark as spam, and based on that learns how to filter spam better. What is the task T in this setting?
