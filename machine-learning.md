@@ -127,6 +127,15 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 
 ![ML Cheat Sheet](/images/machine-learning-cheet-sheet.png)
 
+## Terms
+* Linearity - Property of a mathematical function that can be graphically represented as a straight line  
+* Linear Regression -  Linear approach to modelling the relationship between a dependent variable and one or more independent variables  
+* Input Variable/Independent Variable : An independent variable is a variable that is manipulated to determine the value of a dependent variable   
+* Output Variable/Dependent Variable : An dependent variable is a variable that represents the output or outcome 
+Hypothesis  
+* Cost Function or Mean Square Error :  Measures the average squared difference between the desired  output  and actual output is estimated  
+* Linear Programming : Mathematical technique for maximizing or minimizing a linear function of several variables, such as output or cost  
+
 ### Adapted From
 
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/lecture/Ujm7v/what-is-machine-learning)
