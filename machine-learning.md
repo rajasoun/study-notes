@@ -60,7 +60,7 @@ In general, any machine learning problem can be assigned to one of two broad cla
 
 With supervised machine learning, you have an input variable that consists of _labeled training data_ and a _desired output variable_. An algorithm to analyse the training data is used to model the function that maps the input to the output. This modelled function maps new, unknown examples by generalising from the training data to anticipate results in unseen situations.
 
-We are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
+In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
 Supervised learning problems are categorised into 
 
