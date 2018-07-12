@@ -1,9 +1,7 @@
 
 # What is  Machine Learning
 
-Getting Computers (Machine) to learn* without being explicitly Programmed.
-
-  lean* - to recognise patterns found within Data
+Getting Machine to learn* without being explicitly Programmed.
 
 > or
 
