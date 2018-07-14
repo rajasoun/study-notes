@@ -154,3 +154,9 @@ Hypothesis
 ### Tools
 
 [Markdown Table Tool](https://www.tablesgenerator.com/markdown_tables)
+
+### Further Readings
+[Bringing the benefits of AI to everyone By Google](https://ai.google/about/)
+[ML Courses From Coursera](https://www.coursera.org/courses?languages=en&query=machine+learning&userQuery=machine+learning)
+[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects#)https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/
+
