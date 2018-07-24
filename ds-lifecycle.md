@@ -1,8 +1,6 @@
-![CRISP-DM](/images/dcrisp-dm.jpg)
+![Lifecycle](/images/ds-lifecycle.jpg)
 
-# CRISP-DM
-CRISP-DM stands for cross-industry process for data mining. The CRISP-DM methodology provides a structured approach to planning a data mining project. It is a robust and well-proven methodology. 
-
+# Simplified Template For Data Science Project
 
 ## 1. Business Understanding
 	* Problem Statement
@@ -81,7 +79,7 @@ CRISP-DM stands for cross-industry process for data mining. The CRISP-DM methodo
 	* 8.2 Description of how updates will be performed:
 
 
-![Lifecycle](/images/ds-lifecycle.jpg)
+
 
 
 
