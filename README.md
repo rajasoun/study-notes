@@ -15,9 +15,7 @@ Study Notes (Back To Basics)
 
 
 Andrew-NG:
-* [Coursera-Machine-Learning-Python](https://github.com/chinmaydas96/Coursera-Machine-Learning-Python)
-* [Andrew Ng's Machine Learning course on Coursera - Jupyter NoteBook](https://github.com/kaleko/CourseraML)
-* [Andrew Ng's online machine-learning course - Python](https://github.com/deyachatterjee/ml-andrewng-python/)
-* [Andrew Ng's online machine-learning course - Python](https://github.com/rajasoun/Artificial-Intelligence-and-Machine-Learning)
-* [Andrew Ng's online machine-learning course - R](https://github.com/rajasoun/machine-learning-R-coursera)
+* [Andrew Ng's online machine-learning course - Octave](https://github.com/rajasoun/ml-class-octave)
+* [Andrew Ng's online machine-learning course - Python](https://github.com/rajasoun/ml-class-python/tree/master/ML)
+* [Andrew Ng's online machine-learning course - R](https://github.com/rajasoun/ml-class-R)
 
