@@ -1,5 +1,6 @@
 # study-notes
-Study Notes (Back To Basics)
+
+## Study Notes (Back To Basics)
 
 * [How To Become A Data Scientist in 12 Months](https://medium.com/@FreddieO/how-to-become-a-data-scientist-in-12-months-7e0deb51fac5)
 * [100DaysToCode](http://www.100daysofcode.com/)
@@ -14,8 +15,8 @@ Study Notes (Back To Basics)
 * [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 
-Andrew-NG:
-* [Andrew Ng's online machine-learning course - Octave](https://github.com/rajasoun/ml-class-octave)
-* [Andrew Ng's online machine-learning course - Python](https://github.com/rajasoun/ml-class-python/tree/master/ML)
-* [Andrew Ng's online machine-learning course - R](https://github.com/rajasoun/ml-class-R)
+## [Andrew-NG Course](https://www.coursera.org/learn/machine-learning)
+* [Octave](https://github.com/rajasoun/ml-class-octave)
+* [Python](https://github.com/rajasoun/ml-class-python/tree/master/ML)
+* [R](https://github.com/rajasoun/ml-class-R)
 
