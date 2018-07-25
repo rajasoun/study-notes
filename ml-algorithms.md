@@ -15,7 +15,7 @@
     * 2: Principle That Underpins All Algorithms
     * 3: Parametric and Nonparametric Algorithms
     * 4: Bias, Variance and the Trade-off
-2. [Linear Algorithms]()
+2. [Linear Algorithms](https://github.com/rajasoun/study-notes/blob/master/regression-techniques.md)
     * 1: Linear Regression
     * 2: Logistic Regression
     * 3: Linear Discriminant Analysis
