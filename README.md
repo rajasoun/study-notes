@@ -1,4 +1,4 @@
-# study-notes
+# My Collection
 
 ## Study Notes (Back To Basics)
 
