@@ -1,6 +1,6 @@
 # Machine Learning 
 
-##Objectives:
+## Objectives:
 
 1. Importanec of data in machine learning and about the underlying principles of all predictive modeling algorithms.
 2. Understand the difference between parametric and nonparametric algorithms and the difference between error introduced by bias and variance.
