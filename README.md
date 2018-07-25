@@ -15,8 +15,9 @@ Study Notes (Back To Basics)
 
 
 Andrew-NG:
-https://github.com/chinmaydas96/Coursera-Machine-Learning-Python/blob/master/ex1/ex1_multi.py
-https://github.com/kaleko/CourseraML/tree/master/ex1
-https://github.com/deyachatterjee/ml-andrewng-python/tree/master/ex1
-https://github.com/rajasoun/machine-learning-R-coursera
-https://github.com/rajasoun/Artificial-Intelligence-and-Machine-Learning
+[Coursera-Machine-Learning-Python](https://github.com/chinmaydas96/Coursera-Machine-Learning-Python)
+[Andrew Ng's Machine Learning course on Coursera - Jupyter NoteBook](https://github.com/kaleko/CourseraML)
+[Andrew Ng's online machine-learning course - Python](https://github.com/deyachatterjee/ml-andrewng-python/)
+[Andrew Ng's online machine-learning course - Python](https://github.com/rajasoun/Artificial-Intelligence-and-Machine-Learning)
+[Andrew Ng's online machine-learning course - R](https://github.com/rajasoun/machine-learning-R-coursera)
+
