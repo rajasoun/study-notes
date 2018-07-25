@@ -42,4 +42,6 @@ There are various kinds of regression techniques available to make predictions. 
 
 ![Regression Types](https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Regression_Type.png)
 
+Credits & Adapted From - [analyticsvidhya](https://www.analyticsvidhya.com) 
 
+### [Further Reading](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
